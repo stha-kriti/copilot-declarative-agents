@@ -32,4 +32,4 @@ Public web URL of an open course page or open textbook chapter, or own notes pas
 4. "Plan for 10 days, exam on 2026-01-20, 2h/day" -> expect weak topics earlier, mock quiz last.
 
 ## Iteration log
-Fill in after testing.
+Status: designed, not yet built or tested.

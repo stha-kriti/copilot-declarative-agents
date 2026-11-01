@@ -33,4 +33,4 @@ Public web URLs of 2-3 open-access papers on one topic, added as web knowledge s
 4. "Compare all papers." -> expect a table.
 
 ## Iteration log
-Fill in after testing: what failed, what you changed, what improved.
+Not recorded yet.
