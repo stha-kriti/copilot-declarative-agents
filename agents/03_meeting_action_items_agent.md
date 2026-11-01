@@ -38,4 +38,4 @@ None needed. Optionally a one-page template of the output format. Test with inve
 5. Two sentences of unclear notes -> expect "what is missing" rather than invented content.
 
 ## Iteration log
-Fill in after testing: what failed, what you changed, what improved.
+Status: designed, not yet built or tested.
