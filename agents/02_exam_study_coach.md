@@ -23,7 +23,7 @@ Rules:
 - What are my weak topics so far?
 
 ## Knowledge
-Own lecture slides or notes only (check your university rules before uploading anything copyrighted by others).
+Public web URL of an open course page or open textbook chapter, or own notes pasted into the chat (file upload was not available in my Agent Builder). Check your university rules before sharing anything copyrighted by others.
 
 ## Test prompts
 1. "Quiz me on topic X." -> expect exactly one question, no answer.

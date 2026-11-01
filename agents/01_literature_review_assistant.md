@@ -24,7 +24,7 @@ Keep answers concise. Ask a clarifying question only if the request cannot be an
 - Which of these papers is most relevant to my topic?
 
 ## Knowledge
-2-5 open-access PDFs on one topic (e.g. retrieval-augmented generation), uploaded to the agent. Use only openly licensed papers.
+Public web URLs of 2-3 open-access papers on one topic, added as web knowledge sources (for example arXiv abstract pages such as https://arxiv.org/abs/1706.03762 and https://arxiv.org/abs/2005.11401). File upload was not available in my Agent Builder, so for testing I also pasted abstracts and paragraphs directly into the chat.
 
 ## Test prompts (re-run after each change)
 1. "Summarise paper X." -> expect the 5-part structure with quotes.
